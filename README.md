@@ -9,7 +9,7 @@
       <p style="margin: 0;"><strong>Universidad Peruana Cayetano Heredia</strong></p>
     </td>
     <td align="right" style="border: none;">
-      <img src="TU_GIF_AQUI.gif" width="100" alt="Icono decorativo">
+      <img src="https://github.com/user-attachments/assets/cfe7d1a0-4b05-4065-b97e-1268c8027055" width="100" alt="Icono decorativo">
     </td>
   </tr>
 </table>
